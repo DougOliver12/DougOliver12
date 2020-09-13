@@ -1,5 +1,5 @@
 ### Hi there 👋, Meu nome é Douglas
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://images.pexels.com/photos/163046/welcome-to-our-home-welcome-tablet-an-array-of-163046.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260)
 
 Eu sou recém formado em Ciência da Computação, apaixonado por tecnologia, em busca de um primeiro emprego na área e de aumentar meus conhecimentos em desenvolvimento.
 
