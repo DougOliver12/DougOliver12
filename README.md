@@ -1,7 +1,7 @@
 ### Hi there 👋, Meu nome é Douglas
 ![](https://images.pexels.com/photos/163046/welcome-to-our-home-welcome-tablet-an-array-of-163046.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260)
 
-Eu sou recém formado em Ciência da Computação, apaixonado por tecnologia, estou em uma busca de aprendizado constante, além do primeiro emprego na área de TI.
+Eu sou recém formado em Ciência da Computação um apaixonado por tecnologia e estou em uma busca de aprendizado constante, além do primeiro emprego na área de TI.
 
 Skills: Desenvolvimento web, java, python e C, bancos de dados MYSQL e NOSQL e dispositivos IOT.
 
