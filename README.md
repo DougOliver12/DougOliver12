@@ -4,7 +4,7 @@
 Skills: Desenvolvimento VBA, python e C, bancos de dados MYSQL e NOSQL e dispositivos IOT.
 
 - 🔭 Eu estou em constante aprendizado, sempre estudando e fazendo novos cursos! 
-- 🌱 Atualmente sou desenvolvedor BKO Pl trabalhando com as seguintes tecnologias: VBA, Power BI, Power Apps, Power Automate, SQL.
+- 🌱 Atualmente estou a procura de uma nova oportunidade de trabalho, na qual tenho experiência com: Pascal, VBA, Power BI, Power Apps, Power Automate, SQL.
 - 💬 Me interesso por: Projetos, voluntariado.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DougOliver12)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/douglas-magalhães-28082213b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/douglasnewmetal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13125518)  
